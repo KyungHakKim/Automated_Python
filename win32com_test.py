@@ -36,3 +36,4 @@ if __name__ == "__main__":
     wirteFunc()
     load_data()
     
+    print("End Program~~~~~~~~~~~~~")
