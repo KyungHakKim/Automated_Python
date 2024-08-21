@@ -16,8 +16,8 @@ def wirteFunc():
 def load_data():
     print("Start load_data()")
     excel = win32com.client.Dispatch("Excel.Application")
-    temp_wb = excel.Workbooks.open(r"max_row_result.xlsx")
-    temp_wb.save()
+    temp_wb = excel.Workbooks.open(r"D:\Python\Automated_Python\max_row_result.xlsx")
+    temp_wb.Save()
   
     excel.quit() 
     
