@@ -41,6 +41,20 @@ currencyList.append (currecnyValue)
 
 print(currencyList)
 
+print(currencyList[0])
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
