@@ -1,6 +1,9 @@
 #python -m venv myenv
 #pip install pandas, selenium
 
+#################################################
+#Naver 시가 총액 크롤링 셀레니움 이용
+#################################################
 import os
 import pandas as pd 
 from selenium import webdriver
